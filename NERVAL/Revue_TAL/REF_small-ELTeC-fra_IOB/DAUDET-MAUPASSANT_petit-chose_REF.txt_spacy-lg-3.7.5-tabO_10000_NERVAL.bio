@@ -5129,9 +5129,9 @@ me O
 parut O
 le O
 comble O
-I B-PER
-|
-| I-PER
+| O
+I B-MISC
+| I-MISC
 Jeanne O
 , O
 ayant O
@@ -5152,7 +5152,6 @@ ne O
 cessait O
 pas O
 . O
-|
 | O
 L' O
 averse O
@@ -5245,7 +5244,6 @@ cave O
 au O
 grenier O
 . O
-|
 | O
 Jeanne B-PER
 , O
@@ -5304,7 +5302,6 @@ interrogeait O
 l' O
 horizon O
 . O
-|
 | O
 Puis O
 , O
@@ -5388,7 +5385,6 @@ sortie O
 du O
 couvent O
 . O
-|
 | O
 Une O
 voix O
@@ -5403,7 +5399,6 @@ appela O
 Jeannette B-PER
 ! O
 » O
-|
 | O
 Jeanne B-PER
 répondit O
@@ -5419,7 +5414,7 @@ son O
 père O
 parut O
 . O
-|
+
 | O
 Le O
 baron O
@@ -5468,7 +5463,6 @@ bois O
 les O
 bêtes O
 . O
-|
 | O
 Aristocrate B-PER
 de O
@@ -5479,7 +5473,7 @@ haïssait O
 par O
 instinct O
 quatre-vingt-treize O
-  O
+; O
 mais O
 , O
 philosophe O
@@ -5501,7 +5495,6 @@ inoffensive O
 et O
 déclamatoire O
 . O
-|
 | O
 Sa O
 grande O
@@ -5564,7 +5557,6 @@ presque O
 un O
 vice O
 . O
-|
 | O
 Homme O
 de O
@@ -5592,7 +5584,6 @@ droite O
 et O
 tendre O
 . O
-|
 | O
 Elle O
 était O
@@ -5622,7 +5613,6 @@ Sacré B-LOC
 - I-LOC
 Cœur I-LOC
 . O
-|
 | O
 Il O
 l' O
@@ -5664,7 +5654,7 @@ bain O
 de O
 poésie O
 raisonnable O
-  O
+; O
 et O
 , O
 par O
@@ -5706,7 +5696,6 @@ de O
 la O
 vie O
 . O
-|
 | O
 Elle O
 sortait O
@@ -5760,7 +5749,6 @@ avait O
 déjà O
 parcourus O
 . O
-|
 | O
 Elle O
 semblait O
@@ -5837,7 +5825,6 @@ faïence O
 de O
 Hollande B-LOC
 . O
-|
 | O
 Elle O
 avait O
@@ -5901,7 +5888,7 @@ semblait O
 parfois O
 trop O
 aiguë O
-  O
+; O
 mais O
 son O
 rire O
@@ -5935,7 +5922,6 @@ lisser O
 sa O
 chevelure O
 . O
-|
 | O
 Elle O
 courut O
@@ -5961,7 +5947,6 @@ partons O
 dit O
 -elle O
 . O
-|
 | O
 Il O
 sourit O
@@ -5987,7 +5972,6 @@ vers O
 la O
 fenêtre O
 : O
-|
 | O
 « O
 Comment O
@@ -6001,7 +5985,6 @@ temps O
 pareil O
 ? O
 » O
-|
 | O
 Mais O
 elle O
@@ -6012,7 +5995,6 @@ câline O
 et O
 tendre O
 : O
-|
 | O
 « O
 Oh B-MISC
@@ -6033,7 +6015,6 @@ dans O
 l' O
 après-midi O
 . O
-|
 | O
 — O
 Mais O
@@ -6044,7 +6025,6 @@ y O
 consentira O
 jamais O
 . O
-|
 | O
 — O
 Si B-MISC
@@ -6059,7 +6039,6 @@ m' O
 en O
 charge O
 . O
-|
 | O
 — O
 Si B-MISC
@@ -6077,7 +6056,6 @@ bien O
 moi O
 . O
 » O
-|
 | O
 Et O
 elle O
@@ -6103,7 +6081,6 @@ une O
 impatience O
 grandissante O
 . O
-|
 | O
 Depuis O
 son O
@@ -6160,7 +6137,6 @@ que O
 la O
 campagne O
 . O
-|
 | O
 Elle O
 allait O
@@ -6185,7 +6161,7 @@ falaise O
 près O
 d' O
 Yport B-LOC
-  O
+; O
 et O
 elle O
 se O
@@ -6225,7 +6201,6 @@ elle O
 serait O
 mariée O
 . O
-|
 | O
 Et O
 la O
@@ -6249,7 +6224,6 @@ de O
 son O
 existence O
 . O
-|
 | O
 Mais O
 , O
@@ -6286,12 +6260,11 @@ papa O
 maman O
 veut O
 bien O
-  O
+; O
 fais O
 atteler O
 . O
 » O
-|
 | O
 Le O
 déluge O
@@ -6299,7 +6272,7 @@ ne O
 s' O
 apaisait O
 point O
-  O
+; O
 on O
 eût O
 dit O
@@ -6316,7 +6289,6 @@ devant O
 la O
 porte O
 . O
-|
 | O
 Jeanne B-PER
 était O
@@ -6414,7 +6386,6 @@ s' O
 appelait O
 Rosalie B-PER
 . O
-|
 | O
 Sa O
 principale O
@@ -6448,7 +6419,6 @@ plaignait O
 sans O
 cesse O
 . O
-|
 | O
 La O
 baronne O
@@ -6483,7 +6453,6 @@ pas O
 raisonnable O
 . O
 » O
-|
 | O
 Son O
 mari O
@@ -6506,7 +6475,6 @@ madame B-PER
 Adélaïde I-PER
 . O
 » O
-|
 | O
 Comme O
 elle O
@@ -6536,7 +6504,6 @@ un O
 peu O
 moqueur O
 . O
-|
 | O
 Puis O
 elle O
@@ -6575,7 +6542,6 @@ banquette O
 à O
 reculons O
 . O
-|
 | O
 La O
 cuisinière O
@@ -6601,7 +6567,7 @@ dissimula O
 sous O
 les O
 jambes O
-  O
+; O
 puis O
 elle O
 grimpa O
@@ -6637,7 +6603,7 @@ en O
 fermant O
 la O
 portière O
-  O
+; O
 ils O
 reçurent O
 les O
@@ -6652,12 +6618,11 @@ suivre O
 dans O
 une O
 charrette O
-  O
+; O
 et O
 on O
 partit O
 . O
-|
 | O
 Le O
 père O
@@ -6696,7 +6661,6 @@ inondait O
 la O
 chaussée O
 . O
-|
 | O
 La O
 berline O
@@ -6741,7 +6705,7 @@ comme O
 des O
 arbres O
 dépouillés O
-  O
+; O
 puis O
 elle O
 s' O
@@ -6754,7 +6718,6 @@ du O
 mont B-LOC
 Riboudet I-LOC
 . O
-|
 | O
 Bientôt O
 , O
@@ -6762,7 +6725,7 @@ on O
 traversa O
 les O
 prairies O
-  O
+; O
 et O
 , O
 de O
@@ -6809,12 +6772,11 @@ soleils O
 de O
 boue O
 . O
-|
 | O
 On O
 se O
 taisait O
-  O
+; O
 les O
 esprits O
 eux O
@@ -6895,7 +6857,7 @@ remettre O
 à O
 l' O
 air O
-  O
+; O
 et O
 l' O
 épaisseur O
@@ -6942,7 +6904,7 @@ eau O
 qu' O
 elle O
 boirait O
-  O
+; O
 et O
 elle O
 jouissait O
@@ -6975,7 +6937,6 @@ de O
 cette O
 inondation O
 . O
-|
 | O
 Et O
 , O
@@ -6997,7 +6958,6 @@ d' O
 eau O
 bouillante O
 . O
-|
 | O
 La O
 baronne O
@@ -7062,7 +7022,7 @@ aspiration O
 , O
 retombait O
 ensuite O
-  O
+; O
 les O
 joues O
 s' O
@@ -7109,13 +7069,12 @@ portefeuille O
 en O
 cuir O
 . O
-|
 | O
 Ce O
 toucher O
 la O
 réveilla O
-  O
+; O
 et O
 elle O
 considéra O
@@ -7160,7 +7119,7 @@ s' O
 tout O
 à O
 fait O
-  O
+; O
 et O
 la O
 gaieté O
@@ -7174,7 +7133,6 @@ fusée O
 de O
 rires O
 . O
-|
 | O
 Le O
 baron O
@@ -7224,7 +7182,6 @@ souvent O
 désormais O
 . O
 » O
-|
 | O
 Elle O
 compta O
@@ -7242,7 +7199,6 @@ dans O
 sa O
 poche O
 . O
-|
 | O
 C' O
 était O
@@ -7288,7 +7244,6 @@ francs O
 par O
 an O
 . O
-|
 | O
 Comme O
 ils O
@@ -7381,7 +7336,6 @@ de O
 gros O
 . O
 » O
-|
 | O
 Cette O
 facilité O
@@ -7399,7 +7353,7 @@ bonheurs O
 de O
 leur O
 vie O
-  O
+; O
 et O
 ils O
 s' O
@@ -7414,7 +7368,6 @@ superbe O
 et O
 touchante O
 . O
-|
 | O
 Jeanne B-PER
 demanda O
@@ -7430,7 +7383,6 @@ mon O
 château O
 ? O
 » O
-|
 | O
 Le O
 baron O
@@ -7444,7 +7396,6 @@ verras O
 fillette O
 . O
 » O
-|
 | O
 Mais O
 peu O
@@ -7457,7 +7408,7 @@ de O
 l' O
 averse O
 diminuait O
-  O
+; O
 puis O
 ce O
 ne O
@@ -7486,7 +7437,7 @@ s' O
 élever O
 , O
 blanchir O
-  O
+; O
 et O
 soudain O
 , O
@@ -7510,7 +7461,6 @@ sur O
 les O
 prairies O
 . O
-|
 | O
 Et O
 , O
@@ -7526,7 +7476,7 @@ bleu O
 du O
 firmament O
 parut O
-  O
+; O
 puis O
 la O
 déchirure O
@@ -7539,7 +7489,7 @@ voile O
 qui O
 se O
 déchire O
-  O
+; O
 et O
 un O
 beau O
@@ -7559,7 +7509,6 @@ sur O
 le O
 monde O
 . O
-|
 | O
 Un O
 souffle O
@@ -7575,7 +7524,7 @@ heureux O
 de O
 la O
 terre O
-  O
+; O
 et O
 , O
 quand O
@@ -7601,7 +7550,6 @@ séchait O
 ses O
 plumes O
 . O
-|
 | O
 Le O
 soir O
@@ -7644,14 +7592,13 @@ de O
 l' O
 eau O
 . O
-|
 | O
 Le O
 soleil O
 s' O
 était O
 couché O
-  O
+; O
 des O
 cloches O
 sonnaient O
@@ -7666,7 +7613,7 @@ on O
 alluma O
 les O
 lanternes O
-  O
+; O
 et O
 le O
 ciel O
@@ -7696,7 +7643,7 @@ un O
 point O
 de O
 feu O
-  O
+; O
 et O
 tout O
 d' O
@@ -7729,7 +7676,6 @@ sommeil O
 , O
 surgit O
 . O
-|
 | O
 Il O
 faisait O
@@ -7768,7 +7714,7 @@ faisait O
 rouvrir O
 les O
 yeux O
-  O
+; O
 alors O
 elle O
 regardait O
@@ -7819,7 +7765,7 @@ ressaisir O
 un O
 songe O
 ébauché O
-  O
+; O
 mais O
 le O
 roulement O
@@ -7849,7 +7795,6 @@ comme O
 le O
 corps O
 . O
-|
 | O
 Cependant O
 on O
@@ -7945,7 +7890,6 @@ tout O
 aussitôt O
 dormit O
 . O
-|
 | O
 Jeanne B-PER
 et O
@@ -7955,7 +7899,6 @@ soupèrent O
 en O
 tête-à-tête O
 . O
-|
 | O
 Ils O
 souriaient O
@@ -7971,7 +7914,7 @@ mains O
 travers O
 la O
 table O
-  O
+; O
 et O
 , O
 saisis O
@@ -7991,7 +7934,6 @@ le O
 manoir O
 réparé O
 . O
-|
 | O
 C' O
 était O
@@ -8025,7 +7967,6 @@ loger O
 une O
 race O
 . O
-|
 | O
 Un O
 immense O
@@ -8079,7 +8020,6 @@ d' O
 un O
 pont O
 . O
-|
 | O
 Au O
 rez-de-chaussée O
@@ -8125,7 +8065,7 @@ Fables B-MISC
 de I-MISC
 La I-MISC
 Fontaine I-MISC
-  O
+; O
 et O
 Jeanne B-PER
 eut O
@@ -8158,7 +8098,6 @@ de O
 la O
 Cigogne B-LOC
 . O
-|
 | O
 À O
 côté O
@@ -8179,7 +8118,7 @@ deux O
 autres O
 pièces O
 inutilisées O
-  O
+; O
 à O
 gauche O
 , O
@@ -8207,7 +8146,6 @@ contenant O
 une O
 baignoire O
 . O
-|
 | O
 Un O
 corridor O
@@ -8273,7 +8211,6 @@ dans O
 les O
 greniers O
 . O
-|
 | O
 Des O
 tapisseries O
@@ -8292,7 +8229,6 @@ de O
 personnages O
 singuliers O
 . O
-|
 | O
 Mais O
 , O
@@ -8349,7 +8285,7 @@ et O
 de O
 fruits O
 sculptés O
-  O
+; O
 et O
 quatre O
 colonnes O
@@ -8372,7 +8308,6 @@ d' O
 amours O
 enroulés O
 . O
-|
 | O
 Il O
 se O
@@ -8395,7 +8330,6 @@ par O
 le O
 temps O
 . O
-|
 | O
 Le O
 couvre-pied O
@@ -8437,7 +8371,6 @@ brodées O
 d' O
 or O
 . O
-|
 | O
 Quand O
 elle O
@@ -8461,7 +8394,6 @@ comprendre O
 le O
 sujet O
 . O
-|
 | O
 Un B-MISC
 jeune I-MISC
@@ -8511,7 +8443,6 @@ d' O
 herbe O
 grise O
 . O
-|
 | O
 Juste O
 au-dessus O
@@ -8534,7 +8465,7 @@ rondes O
 aux O
 toits O
 aigus O
-  O
+; O
 et O
 là O
 - O
@@ -8552,7 +8483,6 @@ vent O
 tout O
 rouge O
 . O
-|
 | O
 De O
 grands O
@@ -8567,7 +8497,6 @@ dans O
 tout O
 cela O
 . O
-|
 | O
 Les O
 deux O
@@ -8610,7 +8539,6 @@ de O
 colère O
 extrêmes O
 . O
-|
 | O
 Mais O
 la O
@@ -8659,7 +8587,6 @@ arbre O
 devenus O
 noirs O
 . O
-|
 | O
 Jeanne B-PER
 renonçait O
@@ -8700,7 +8627,6 @@ c' O
 un O
 lion O
 . O
-|
 | O
 Alors O
 elle O
@@ -8712,7 +8638,7 @@ Pyrame B-PER
 et O
 de O
 Thysbé B-LOC
-  O
+; O
 et O
 , O
 quoiqu' O
@@ -8763,7 +8689,6 @@ antique O
 et O
 légendaire O
 . O
-|
 | O
 Tout O
 le O
@@ -8854,7 +8779,6 @@ de O
 l' B-LOC
 Empire I-LOC
 . O
-|
 | O
 C' O
 était O
@@ -8903,7 +8827,6 @@ ailes O
 d' O
 émail O
 . O
-|
 | O
 Le O
 cadran O
@@ -8920,7 +8843,6 @@ de O
 la O
 ruche O
 . O
-|
 | O
 Elle O
 se O
@@ -8942,7 +8864,6 @@ retira O
 chez O
 lui O
 . O
-|
 | O
 Alors O
 , O
@@ -8954,7 +8875,6 @@ regret O
 se O
 coucha O
 . O
-|
 | O
 D' O
 un O
@@ -9008,7 +8928,6 @@ flaque O
 de O
 clarté O
 . O
-|
 | O
 Des O
 reflets O
@@ -9030,7 +8949,6 @@ et O
 de O
 Thysbé B-LOC
 . O
-|
 | O
 Par O
 l' O
@@ -9076,7 +8994,6 @@ temps O
 les O
 rouvrit O
 . O
-|
 | O
 Elle O
 croyait O
@@ -9113,7 +9030,7 @@ ferait O
 enfin O
 s' O
 endormir O
-  O
+; O
 mais O
 l' O
 impatience O
@@ -9126,7 +9043,6 @@ tout O
 son O
 corps O
 . O
-|
 | O
 Elle O
 avait O
@@ -9186,7 +9102,6 @@ fenêtre O
 et O
 regarda O
 . O
-|
 | O
 La O
 nuit O
@@ -9201,7 +9116,7 @@ comme O
 en O
 plein O
 jour O
-  O
+; O
 et O
 la O
 jeune O
@@ -9218,7 +9133,6 @@ sa O
 première O
 enfance O
 . O
-|
 | O
 C' O
 était O
@@ -9265,7 +9179,6 @@ tilleul O
 au O
 sud O
 . O
-|
 | O
 Tout O
 au O
@@ -9318,7 +9231,6 @@ mer O
 toujours O
 déchaîné O
 . O
-|
 | O
 Cette O
 espèce O
@@ -9374,7 +9286,6 @@ la O
 famille O
 Martin B-PER
 . O
-|
 | O
 Ces O
 peuples O
@@ -9439,7 +9350,6 @@ dans O
 les O
 vagues O
 . O
-|
 | O
 Jeanne B-PER
 regardait O
@@ -9458,7 +9368,6 @@ sous O
 les O
 étoiles O
 . O
-|
 | O
 Dans O
 cet O
@@ -9527,7 +9436,6 @@ visqueuse O
 des O
 varechs O
 . O
-|
 | O
 La O
 jeune O
@@ -9538,7 +9446,7 @@ au O
 bonheur O
 de O
 respirer O
-  O
+; O
 et O
 le O
 repos O
@@ -9552,7 +9460,6 @@ un O
 bain O
 frais O
 . O
-|
 | O
 Toutes O
 les O
@@ -9603,7 +9510,7 @@ taches O
 comme O
 des O
 ombres O
-  O
+; O
 des O
 bourdonnements O
 d' O
@@ -9612,7 +9519,7 @@ invisibles O
 effleuraient O
 l' O
 oreille O
-  O
+; O
 des O
 courses O
 muettes O
@@ -9629,7 +9536,6 @@ des O
 chemins O
 déserts O
 . O
-|
 | O
 Seuls O
 quelques O
@@ -9645,7 +9551,6 @@ courte O
 et O
 monotone O
 . O
-|
 | O
 Il O
 semblait O
@@ -9691,7 +9596,7 @@ unissait O
 cette O
 poésie O
 vivante O
-  O
+; O
 et O
 dans O
 la O
@@ -9721,7 +9626,6 @@ souffle O
 de O
 bonheur O
 . O
-|
 | O
 Et O
 elle O
@@ -9732,7 +9636,6 @@ rêver O
 d' O
 amour O
 . O
-|
 | O
 L' O
 amour O
@@ -9757,7 +9660,7 @@ elle O
 libre O
 d' O
 aimer O
-  O
+; O
 elle O
 n' O
 avait O
@@ -9769,7 +9672,6 @@ rencontrer O
 , O
 lui O
 ! O
-|
 | O
 Comment O
 serait O
@@ -9797,7 +9699,6 @@ lui O
 voilà O
 tout O
 . O
-|
 | O
 Elle O
 savait O
@@ -9901,7 +9802,6 @@ plus O
 secrètes O
 pensées O
 . O
-|
 | O
 Et O
 cela O
@@ -9916,7 +9816,6 @@ une O
 affection O
 indescriptible O
 . O
-|
 | O
 Et O
 il O
@@ -9931,7 +9830,7 @@ là O
 , O
 contre O
 elle O
-  O
+; O
 et O
 brusquement O
 un O
@@ -9965,7 +9864,7 @@ pour O
 étreindre O
 son O
 rêve O
-  O
+; O
 et O
 , O
 sur O
@@ -9999,7 +9898,6 @@ baiser O
 d' O
 amour O
 . O
-|
 | O
 Tout O
 à O
@@ -10089,7 +9987,6 @@ demander O
 l' O
 hospitalité O
 . O
-|
 | O
 Lorsqu' O
 il O
@@ -10119,7 +10016,6 @@ sourit O
 sa O
 démence O
 . O
-|
 | O
 Alors O
 , O
@@ -10150,7 +10046,6 @@ avenir O
 son O
 existence O
 . O
-|
 | O
 Avec O
 lui O
@@ -10227,7 +10122,6 @@ pleins O
 de O
 passion O
 . O
-|
 | O
 Et O
 elle O
@@ -10281,7 +10175,7 @@ la O
 ferme O
 de O
 droite O
-  O
+; O
 d' O
 autres O
 répondirent O
@@ -10305,7 +10199,7 @@ la O
 cloison O
 des O
 poulaillers O
-  O
+; O
 et O
 dans O
 l' O
@@ -10321,7 +10215,6 @@ les O
 étoiles O
 disparaissaient O
 . O
-|
 | O
 Un B-MISC
 petit I-MISC
@@ -10343,7 +10236,7 @@ abord O
 sortirent O
 des O
 feuilles O
-  O
+; O
 puis O
 ils O
 s' O
